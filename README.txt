@@ -6,7 +6,7 @@ The Battle of the Bulge, fought from December 16, 1944, to January 16, 1945, was
 
 Credits
 all sounds from freesound:
-1. stuka dive bomber - sphyrna
-2. 1940's broadcast about the battle -  samkolber
-3. tanks shooting - qubodup 
-4. battlefield sounds - paulbogush
+1. stuka dive bomber - sphyrna https://freesound.org/people/Sphyrna/
+2. 1940's broadcast about the battle -  samkolber https://freesound.org/people/SamKolber/
+3. tanks shooting - qubodup https://freesound.org/people/qubodup/ 
+4. battlefield sounds - paulbogush https://freesound.org/people/paulbogush/ 
